@@ -1,4 +1,4 @@
-role_bi_packages_net_osd_packages:
+role_bi_packages_net_packages:
   - bind-utils
   - curl
   - mtr
