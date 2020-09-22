@@ -1,7 +1,9 @@
 role_bi_packages_net_packages:
   - bind-utils
   - curl
+  - lsof
   - mtr
+  - net-tools # Provides netstat
   - tcpdump
   - tcptraceroute
   - wget
